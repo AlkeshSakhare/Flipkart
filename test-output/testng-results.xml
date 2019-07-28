@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Flipkart" duration-ms="63345" started-at="2019-07-28T10:03:24Z" finished-at="2019-07-28T10:04:28Z">
+    <groups>
+    </groups>
+    <test name="Flipkart" duration-ms="63345" started-at="2019-07-28T10:03:24Z" finished-at="2019-07-28T10:04:28Z">
+      <class name="com.flipkart.testcase.IndexLoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.testcase.IndexLoginTest@178f375]" name="setUp" is-config="true" duration-ms="59201" started-at="2019-07-28T15:33:24Z" finished-at="2019-07-28T15:34:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.flipkart.testcase.IndexLoginTest@178f375]" name="verifyLogin" duration-ms="4080" started-at="2019-07-28T15:34:24Z" finished-at="2019-07-28T15:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.testcase.IndexLoginTest@178f375]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-07-28T15:34:28Z" finished-at="2019-07-28T15:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.testcase.IndexLoginTest -->
+    </test> <!-- Flipkart -->
+  </suite> <!-- Flipkart -->
+</testng-results>
