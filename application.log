@@ -1,28 +1,18 @@
-2019-07-28 15:34:24,683  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@class="_2zrpKA _1dBPDZ"]
-2019-07-28 15:34:25,188  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@class="_2zrpKA _1dBPDZ"]
-2019-07-28 15:34:25,342  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@class="_2zrpKA _1dBPDZ"]
-2019-07-28 15:34:25,383  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@class="_2zrpKA _1dBPDZ"]
-2019-07-28 15:34:25,398  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@class="_2zrpKA _1dBPDZ"]
-2019-07-28 15:34:25,433  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@class="_2zrpKA _1dBPDZ"]
-2019-07-28 15:34:26,360  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@type="password"]
-2019-07-28 15:34:26,410  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@type="password"]
-2019-07-28 15:34:26,513  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@type="password"]
-2019-07-28 15:34:26,549  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@type="password"]
-2019-07-28 15:34:26,580  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@type="password"]
-2019-07-28 15:34:26,626  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@type="password"]
-2019-07-28 15:34:27,019  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //button[@class="_2AkmmA _1LctnI _7UHT_c"]
-2019-07-28 15:34:27,051  INFO [main] Flipkart:62 - Found Element By : By.xpath: //button[@class="_2AkmmA _1LctnI _7UHT_c"]
-2019-07-28 15:34:27,069  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //button[@class="_2AkmmA _1LctnI _7UHT_c"]
-2019-07-28 15:34:27,090  INFO [main] Flipkart:62 - Found Element By : By.xpath: //button[@class="_2AkmmA _1LctnI _7UHT_c"]
-2019-07-28 15:34:27,090  INFO [main] Flipkart:30 - Trying to click on: [[ChromeDriver: chrome on XP (b39d42a06db5788b5c1e783156c043e5)] -> xpath: //button[@class="_2AkmmA _1LctnI _7UHT_c"]]
-2019-07-28 15:34:27,663  INFO [main] Flipkart:34 - Clicked on: [[ChromeDriver: chrome on XP (b39d42a06db5788b5c1e783156c043e5)] -> xpath: //button[@class="_2AkmmA _1LctnI _7UHT_c"]]
-2019-07-28 15:34:31,031 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-2019-07-28 15:34:31,036 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-2019-07-28 15:34:31,042 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2019-07-28 15:34:31,045 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2019-07-28 15:34:31,046 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Alkesh/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-2019-07-28 15:34:38,050 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-2019-07-28 15:34:38,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-2019-07-28 15:34:38,061 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2019-07-28 15:34:38,064 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2019-07-28 15:34:38,064 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Alkesh/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-01-25 19:30:24,962  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@class='_2IX_2- VJZDxU']
+2021-01-25 19:30:24,980  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@class='_2IX_2- VJZDxU']
+2021-01-25 19:30:25,037  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@class='_2IX_2- VJZDxU']
+2021-01-25 19:30:25,049  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@class='_2IX_2- VJZDxU']
+2021-01-25 19:30:25,063  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@class='_2IX_2- VJZDxU']
+2021-01-25 19:30:25,080  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@class='_2IX_2- VJZDxU']
+2021-01-25 19:30:25,243  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@type="password"]
+2021-01-25 19:30:25,265  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@type="password"]
+2021-01-25 19:30:25,347  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@type="password"]
+2021-01-25 19:30:25,363  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@type="password"]
+2021-01-25 19:30:25,377  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //input[@type="password"]
+2021-01-25 19:30:25,389  INFO [main] Flipkart:62 - Found Element By : By.xpath: //input[@type="password"]
+2021-01-25 19:30:25,507  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2021-01-25 19:30:25,533  INFO [main] Flipkart:62 - Found Element By : By.xpath: //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2021-01-25 19:30:25,547  INFO [main] Flipkart:58 - Trying to find Element By : By.xpath: //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2021-01-25 19:30:25,562  INFO [main] Flipkart:62 - Found Element By : By.xpath: //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2021-01-25 19:30:25,563  INFO [main] Flipkart:30 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3f13911e9a6c572016fc3dd8fb73a3d0)] -> xpath: //button[@class='_2KpZ6l _2HKlqd _3AWRsL']]
+2021-01-25 19:30:25,642  INFO [main] Flipkart:34 - Clicked on: [[ChromeDriver: chrome on WINDOWS (3f13911e9a6c572016fc3dd8fb73a3d0)] -> xpath: //button[@class='_2KpZ6l _2HKlqd _3AWRsL']]

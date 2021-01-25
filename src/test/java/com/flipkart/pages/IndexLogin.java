@@ -9,13 +9,13 @@ import com.flipkart.utils.TestUtils;
 
 public class IndexLogin extends TestBase {
 
-	@FindBy(xpath = "//input[@class=\"_2zrpKA _1dBPDZ\"]")
+	@FindBy(xpath = "//input[@class='_2IX_2- VJZDxU']")
 	WebElement usernameTxt;
 
 	@FindBy(xpath = "//input[@type=\"password\"]")
 	WebElement passwordTxt;
 
-	@FindBy(xpath = "//button[@class=\"_2AkmmA _1LctnI _7UHT_c\"]")
+	@FindBy(xpath = "//button[@class='_2KpZ6l _2HKlqd _3AWRsL']")
 	WebElement loginBtn;
 
 	@FindBy(xpath = "//span[text()=\"Forgot?\"]")
